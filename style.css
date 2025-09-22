@@ -45,7 +45,7 @@ border-radius: 50%;
     margin-top: 3rem;
     gap: 5rem;
 }
-#user-score,#como-score{
+#user-score,#comp-score{
     font-size: 4rem;
 }
 #msg{
@@ -58,6 +58,6 @@ border-radius: 50%;
     border-radius: 1rem;
 }
 .msg-container{
-    margin: 5rem;
+    margin: 5rem; 
 
 }
